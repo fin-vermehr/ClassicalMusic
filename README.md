@@ -1,7 +1,6 @@
-# char-rnn-tensorflow
-Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow.
+# Classical Muisc Multi-layer Recurrent Neural Network for note-level music generative models in Python using TensorFlow.
 
-Inspired from Andrej Karpathy's [char-rnn](https://github.com/karpathy/char-rnn).
+Inspired from sherjilozair [char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow).
 
 # Requirements
 - [Tensorflow](http://www.tensorflow.org)
