@@ -1,4 +1,5 @@
-# Classical Muisc Multi-layer Recurrent Neural Network for note-level music generative models in Python using TensorFlow.
+# Classical Muisc Generator
+Multi-layer Recurrent Neural Network for note-level music generative models in Python using TensorFlow.
 
 Inspired from sherjilozair [char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow).
 
